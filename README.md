@@ -1,0 +1,1 @@
+En esta primera entraga aprendimos los comandos más importantes para movernos a través de la terminal, ubircarnos en nuestro computador, crear, buscar y conocer las carpetas que tenemos, también aprendimos cómo enlazar desde la terminal a nuestro GitHub para tener un control de versiones. 
